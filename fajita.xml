@@ -3,5 +3,5 @@
     <!-- REMOVALS (must be at the top) -->
 
     <!-- COMMON -->
-    <project name="steadfasterX/android_device_oneplus_fajita_recovery" path="device/oneplus/fajita" remote="github" revision="android-9.0_shrp" />
+    <project name="sfX-Android/android_device_oneplus_fajita_recovery" path="device/oneplus/fajita" remote="github" revision="android-9.0_shrp" />
 </manifest>
